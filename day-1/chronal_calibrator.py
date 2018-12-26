@@ -35,4 +35,3 @@ class ChronalCalibrator:
         new_index = current_index + 1
 
         return 0 if new_index > len(self.frequencies) - 1 else new_index
-
